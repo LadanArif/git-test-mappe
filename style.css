@@ -3,7 +3,7 @@
 }
 
 h1 {
-  color: aqua;
+  color: hotpink;
 }
 
 body {
@@ -12,4 +12,8 @@ body {
 
 p {
   color: darkviolet;
+}
+
+header {
+  background-color: aquamarine;
 }
